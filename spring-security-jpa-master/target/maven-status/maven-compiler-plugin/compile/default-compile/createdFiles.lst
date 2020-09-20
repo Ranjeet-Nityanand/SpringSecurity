@@ -1,0 +1,7 @@
+io\javabrains\springsecurityjpa\models\MyUserDetails.class
+io\javabrains\springsecurityjpa\UserRepository.class
+io\javabrains\springsecurityjpa\HomeResource.class
+io\javabrains\springsecurityjpa\SecurityConfiguration.class
+io\javabrains\springsecurityjpa\MyUserDetailsService.class
+io\javabrains\springsecurityjpa\models\User.class
+io\javabrains\springsecurityjpa\SpringSecurityJpaApplication.class
